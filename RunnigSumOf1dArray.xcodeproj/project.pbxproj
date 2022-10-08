@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		643B3F8828F1B82D006BF492 /* RunnigSumOf1dArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RunnigSumOf1dArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		643B3F8128F1B80F006BF492 = {
+			isa = PBXGroup;
+			children = (
+				643B3F8828F1B82D006BF492 /* RunnigSumOf1dArray.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		643B3F8228F1B80F006BF492 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1400;
+			};
+			buildConfigurationList = 643B3F8528F1B80F006BF492 /* Build configuration list for PBXProject "RunnigSumOf1dArray" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 643B3F8128F1B80F006BF492;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		643B3F8628F1B80F006BF492 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		643B3F8728F1B80F006BF492 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		643B3F8528F1B80F006BF492 /* Build configuration list for PBXProject "RunnigSumOf1dArray" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				643B3F8628F1B80F006BF492 /* Debug */,
+				643B3F8728F1B80F006BF492 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 643B3F8228F1B80F006BF492 /* Project object */;
+}
